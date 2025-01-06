@@ -20,7 +20,7 @@ The system is designed around three main entities:
 The CabBookingService class manages the booking process using collections like List, Set, and Map.
 
 ---
-[06/01, 6:10 pm] ChatGPT: Classes and Their Responsibilities
+ Classes and Their Responsibilities
 
 1. Cab Class (POJO)
 
